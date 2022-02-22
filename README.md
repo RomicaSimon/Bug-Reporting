@@ -249,7 +249,7 @@ By opening the dropdown list from "Sortare" button,"Cele mai vandute" option sho
 Normal
 
 **Severity:**
-Minor
+Normal
 
 **Reproducibility:**
 Always
