@@ -225,6 +225,44 @@ Windows
 **OS Version:**
 10 Home
 
+----------------
+
+**Summary:**
+"Cele mai vandute" option from dropdown list is not available.
+
+**Description:**
+When the user selects to sort the products by the most sold,option is not available.
+
+**Steps to Reproduce:**
+1. User opens the "Bigfish" application on the Main Page
+2. User clicks on "Ace Carp" tab from the list of producers "Alege producator"
+3. User clicks on "Cele mai noi" dropdown button from "Sortare" section
+4. User selects "Cele mai vandute" option
+
+**Actual results:**
+By opening the dropdown list from "Sortare" button, "Cele mai vandute" option is not available.
+
+**Expected results:**
+By opening the dropdown list from "Sortare" button,"Cele mai vandute" option should be available.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
 
 
 
