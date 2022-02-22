@@ -10,7 +10,7 @@ User can register without having the same password in "Parola" and "Confirma par
 **Description:**
 In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
 
-**Steps to reproduce:**
+**Steps to Reproduce:**
 
 1. User goes to www.bigfish.ro application and opens it on main page
 2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
@@ -57,9 +57,9 @@ Windows
 A strong password is not required while user is creating a new account.
 
 **Description**
-In "Cont nou" page, the user can register with a very weak password which consists in just 3 characters
+In "Cont nou" page, the user can register with a very weak password which consists in just 3 characters.
 
-**Steps to reproduce:**
+**Steps to Reproduce:**
 1. User opens the "Bigfish" application
 2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
 3. User fills the required inputs with the next values:
@@ -99,4 +99,28 @@ Windows
 **OS Version:**
 10 Home
 
+---------------
+
+**Summary:**
+Missing proper validation in "Cont nou" page for email address.
+
+**Description:**
+In the Login page, when user is creating a new account,even if enters an invalid email address,the account is successfully registered.
+
+**Steps to Reproduce:**
+1. User opens the "Bigfish" application on Main Page
+2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
+3. User fills all the required fields with the following values:
+  * Nume: Ionescu
+  * Prenume: Vlad
+  * Telefon: 0787645237
+  * Email: abc12@gmail
+  * Adresa: Str Vulturului nr 74
+  * Oras: Buhusi
+  * Cod postal: 123456
+  * Judet: Iasi
+  * Tara: Romania
+  * Parola: calm456
+  * Confirma parola: calm456
+4. User clicks on "Inregistrare" button
 
