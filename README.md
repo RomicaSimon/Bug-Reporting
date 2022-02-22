@@ -35,13 +35,18 @@ User should not be able to register with different values for "Parola" and "Conf
 
 **Priority:**
 Normal
+
 **Severity:**
 Major
+
 **Reproducibility:**
 Always
+
 **Platform:**
 Laptop
+
 **OS**
 Windows
+
 **OS Version**
 10 Home
