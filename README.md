@@ -187,4 +187,44 @@ Windows
 **OS Version:**
 10 Home
 
+----------------
+
+**Summary:**
+Missing proper redirection between application's pages.
+
+**Description:**
+In the "Contact" page,if the user clicks on "Vezi cos" button,he is redirected to "Comanda" page,so he can see the products added to the cart,but if he clicks on "Continua cumparaturile" button,is redirected to "Contact" page instead of being sent to the shopping page.
+
+**Steps to reproduce:**
+1. User goes to www.bigfish.ro application and opens it on the main page
+2. User clicks on the "Contact" tab
+3. User hovers the cursor over "Cosul meu" button and clicks on "Vezi cos" button
+4. User clicks on "Continua cumparaturile" button
+
+**Actual results:**
+From "Comanda" page,the user is redirected to "Contact" page.
+
+**Expected results:**
+From "Comanda" page,the user should be directed to the shopping page to be able to continue the shoppings.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor  
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
+
+
 
