@@ -23,6 +23,7 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
   * Oras: Buhusi
   * Cod postal: 605302
   * Judet: Bacau
+  * Tara: Romania
   * Parola:1234
   * Confirma parola: 5648
 4. User clicks on the "Inregistrare" button
@@ -71,6 +72,7 @@ In "Cont nou" page, the user can register with a very weak password which consis
   * Oras: Buhusi
   * Cod postal: 605302
   * Judet: Bacau
+  * Tara: Romania
   * Parola: 123
   * Confirma parola: 123
 4.User clicks on the "Inregistrare" button
@@ -123,4 +125,28 @@ In the Login page, when user is creating a new account,even if enters an invalid
   * Parola: calm456
   * Confirma parola: calm456
 4. User clicks on "Inregistrare" button
+
+**Actual results:**
+The account is successfully registered.
+
+**Expected results:**
+A message should warn the user that email address introduced is not in the correct format and enter a valid one.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
 
