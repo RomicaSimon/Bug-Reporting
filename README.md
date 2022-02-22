@@ -31,7 +31,7 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
 User is able to register successfully with different values for "Parola" and "Confirma parola" fields.
 
 **Expected results:**
-User should not be able to register with different values for "Parola" and "Confirma parola" fields
+User should not be able to register with different values for "Parola" and "Confirma parola" fields.
 
 **Priority:**
 Normal
@@ -45,8 +45,38 @@ Always
 **Platform:**
 Laptop
 
-**OS**
+**OS:**
 Windows
 
-**OS Version**
+**OS Version:**
 10 Home
+
+-----------
+
+**Summary:**
+A strong password is not required while user is creating a new account.
+
+**Description**
+In "Cont nou" page, the user can register with a very weak password which consists in just 3 characters
+
+**Steps to reproduce:**
+1. User opens the "Bigfish" application
+2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
+3. User fills the required inputs with the next values:
+  * Nume: Stefan
+  * Prenume: Radu
+  * Telefon: 0787633555
+  * Email: radu.stefanut777@gmail.com
+  * Adresa: Str Vulturului nr.74
+  * Oras: Buhusi
+-Cod postal: 607202
+-Judet/sector: Bacau
+-Tara: Romania
+-Date livrare: Completeaza date de livrare cu date personale
+-Adresa: Str.Soseaua Nationala nr.74
+-Oras: Bacau
+-Judet/sector: Bacau
+-Parola: 123
+-Confirma parola: 123
+4.User clicks on the "Inregistrare" button
+
