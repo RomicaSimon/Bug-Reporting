@@ -12,9 +12,9 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
 
 **Steps to reproduce:**
 
-1.User goes to www.bigfish.ro application and opens it on main page
-2.User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
-3.User fills the required inputs with the next values:
+1. User goes to www.bigfish.ro application and opens it on main page
+2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
+3. User fills the required inputs with the next values:
   * Nume: Stefan
   * Prenume: Radu
   * Telefon: 0787633555
@@ -25,4 +25,4 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
   * Judet: Bacau
   * Parola:1234
   * Confirma parola: 5648
-4.User clicks on the "Inregistrare" button
+4. User clicks on the "Inregistrare" button
