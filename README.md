@@ -107,7 +107,7 @@ Windows
 Missing proper validation in "Cont nou" page for email address.
 
 **Description:**
-In the Login page, when user is creating a new account,even if enters an invalid email address,the account is successfully registered.
+In the Login page, when user is creating a new account,even if he/she enters an invalid email address,the account is successfully registered.
 
 **Steps to Reproduce:**
 1. User goes to www.bigfish.ro application and opens it on the main page
@@ -156,7 +156,7 @@ Windows
 The content of product in "Cosul meu" page is not properly adapted having overlaps.
 
 **Description:**
-When the user checks the shopping cart,in the "Cosul meu" option from the "Comanda" page,the word "Incarca" is truncated by the "Incarca" button and if he removes the item from cart,also the content is overlaped.
+When the user checks the shopping cart,in the "Cosul meu" option from the "Comanda" page,the word "Incarca" is truncated by the "Incarca" button and if he/she removes the item from cart, also the content is overlaped.
 
 **Step to reproduce:**
 1. User goes to www.bigfish.ro application and opens it on the main page
@@ -164,7 +164,7 @@ When the user checks the shopping cart,in the "Cosul meu" option from the "Coman
 3. User clicks on "Sterge din cos" button
 
 **Actual results:**
-When the user checks the shopping cart by clicking on "Vezi cos" button in "Comanda" page, the word "Incarca" is truncated by the "Incarca" button and if he removes the item from cart,also the content is overlaped.
+When the user checks the shopping cart by clicking on "Vezi cos" button in "Comanda" page, the word "Incarca" is truncated by the "Incarca" button and if he/she removes the item from cart,also the content is overlaped.
 
 **Expected results:**
 There should not be incomplete words or overlaped contents.
@@ -193,7 +193,7 @@ Windows
 Missing proper redirection between application's pages.
 
 **Description:**
-In the "Contact" page,if the user clicks on "Vezi cos" button,he is redirected to "Comanda" page,so he can see the products added to the cart,but if he clicks on "Continua cumparaturile" button,is redirected to "Contact" page instead of being sent to the shopping page.
+In the "Contact" page,if the user clicks on "Vezi cos" button,he/she is redirected to "Comanda" page,so he/she can see the products added to the cart,but if he/she clicks on "Continua cumparaturile" button,is redirected to "Contact" page instead of being sent to the shopping page.
 
 **Steps to reproduce:**
 1. User goes to www.bigfish.ro application and opens it on the main page
@@ -299,6 +299,48 @@ Windows
 
 **OS Version:**
 10 Home
+
+-----------------
+
+**Summary:**
+Missing proper confirmation message for product added to the cart from "Wishlist" page.
+
+**Description:**
+After user adds a product to the cart from "Wishlist" page, he/she receives a wrong confirmation message about the product added to the cart.
+
+**Steps to Reproduce:**
+1. User opens the "Bigfish" application
+2. User enters valid credentials for e-mail address and password:
+  * Email: radu.stefanut77@gmail.com
+  * Parola: vara123
+3. User clicks on the "Conectare" button
+4. User clicks on the "Wishlist" button
+5. User selects the product "Ochelari Drennan Aqua Sight" and clicks on the "ADAUGA IN COS" button
+
+**Actual results:**
+After user adds the product to the cart, he/she receives a wrong confirmation message which consists information about the previous product that was added to the cart.
+
+**Expected results:**
+User should receive the right confirmation nessage about the product added to the cart.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
 
 
 
