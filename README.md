@@ -136,7 +136,7 @@ A message should warn the user that email address introduced is not in the corre
 Normal
 
 **Severity:**
-Minor
+Normal
 
 **Reproducibility:**
 Always
@@ -309,7 +309,7 @@ Missing proper confirmation message for product added to the cart from "Wishlist
 After user adds a product to the cart from "Wishlist" page, he/she receives a wrong confirmation message about the product added to the cart.
 
 **Steps to Reproduce:**
-1. User opens the "Bigfish" application
+1. User goes to www.bigfish.ro application and opens it on the main page
 2. User enters valid credentials for e-mail address and password:
   * Email: radu.stefanut77@gmail.com
   * Parola: vara123
@@ -322,6 +322,55 @@ After user adds the product to the cart, he/she receives a wrong confirmation me
 
 **Expected results:**
 User should receive the right confirmation nessage about the product added to the cart.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
+-----------------
+
+**Summary:**
+Missing proper validation for "Cod postal" field when the user creates a new account.
+
+**Description:**
+When the user creates a new account, the "Cod posatal" field is not forbidden for special and alphabetical characters and for length shorter than 4 characters.
+
+**Steps to Reproduce:**
+1. User goes to www.bigfish.ro application and opens it on main page
+2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
+3. User fills all the required fields with the following values:
+  * Nume: Stefan
+  * Prenume: Radu
+  * Telefon: 0787633555
+  * Email: radu.stefanut112@gmail.com
+  * Adresa: Str Vulturului nr.74
+  * Oras: Buhusi
+  * Cod postal: @#$<>?&!
+  * Judet: Bacau
+  * Tara: Romania
+  * Parola: guru123
+  * Confirma parola: guru123
+4. User clicks on "Inregistrare" button
+
+**Actual results:**
+The account is successfully registered.
+
+**Expected results:**
+User should not be able to create a new account with other than numerichal characters and should get an warning message that postal code introduced hasn't the correct format.
 
 **Priority:**
 Normal
