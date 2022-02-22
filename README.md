@@ -14,9 +14,9 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
 1.User opens the "Bigfish" application
 2.User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
 3.User fills the required inputs with the next values:
--Nume: Stefan
--Prenume: Radu
--Telefon: 0787633555
+  * Nume: Stefan
+  * Prenume: Radu
+  * Telefon: 0787633555
 -Email: radu.stefanut56@gmail.com
 -Date facturare: Fizica
 -Adresa: Str.Soseaua Nationala nr.74
