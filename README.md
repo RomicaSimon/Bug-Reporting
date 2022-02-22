@@ -61,7 +61,7 @@ A strong password is not required while user is creating a new account.
 In "Cont nou" page, the user can register with a very weak password which consists in just 3 characters.
 
 **Steps to Reproduce:**
-1. User opens the "Bigfish" application
+1. User goes to www.bigfish.ro application and opens it on the main page
 2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
 3. User fills the required inputs with the next values:
   * Nume: Stefan
@@ -110,7 +110,7 @@ Missing proper validation in "Cont nou" page for email address.
 In the Login page, when user is creating a new account,even if enters an invalid email address,the account is successfully registered.
 
 **Steps to Reproduce:**
-1. User opens the "Bigfish" application on Main Page
+1. User goes to www.bigfish.ro application and opens it on the main page
 2. User hovers the cursor over the "Autentificare" field and clicks on the "Cont nou" button
 3. User fills all the required fields with the following values:
   * Nume: Ionescu
@@ -149,4 +149,42 @@ Windows
 
 **OS Version:**
 10 Home
+
+---------------
+
+**Summary:**
+The content of product in "Cosul meu" page is not properly adapted having overlaps.
+
+**Description:**
+When the user checks the shopping cart,in the "Cosul meu" option from the "Comanda" page,the word "Incarca" is truncated by the "Incarca" button and if he removes the item from cart,also the content is overlaped.
+
+**Step to reproduce:**
+1. User goes to www.bigfish.ro application and opens it on the main page
+2. User hovers over "Cosul meu" section and clicks on the"Vezi cos" button
+3. User clicks on "Sterge din cos" button
+
+**Actual results:**
+When the user checks the shopping cart by clicking on "Vezi cos" button in "Comanda" page, the word "Incarca" is truncated by the "Incarca" button and if he removes the item from cart,also the content is overlaped.
+
+**Expected results:**
+There should not be incomplete words or overlaped contents.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor 
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
 
