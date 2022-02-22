@@ -87,7 +87,7 @@ The user should not be able to register with such a weak password which consists
 Normal
 
 **Severity:**
-Minor
+Normal
 
 **Reproducibility:**
 Always
