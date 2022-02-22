@@ -234,7 +234,7 @@ Windows
 When the user selects to sort the products by the most sold,option is not available.
 
 **Steps to Reproduce:**
-1. User opens the "Bigfish" application on the Main Page
+1. User goes to www.bigfish.ro application and opens it on the main page
 2. User clicks on "Ace Carp" tab from the list of producers "Alege producator"
 3. User clicks on "Cele mai noi" dropdown button from "Sortare" section
 4. User selects "Cele mai vandute" option
@@ -262,6 +262,45 @@ Windows
 
 **OS Version:**
 10 Home
+
+----------------
+
+**Summary:**
+Missing zoom option for the map of the site.
+
+**Description:**
+In the "Contact" feature,the user does not have zoom option for the map of the application.
+
+**Steps to Reproduce:**
+1. User goes to www.bigfish.ro application and opens it on the main page
+2. User clicks on "Contact" tab
+3. User clicks once on the map, doubleclicks on the map or scrolls over the map 
+
+**Actual results:**
+Even for singleclick or doubleclick on the map image or scrolling over the map, nothing is happening.
+
+**Expected results:**
+User should have an option to be able to zoom the map.
+
+**Priority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
+
 
 
 
