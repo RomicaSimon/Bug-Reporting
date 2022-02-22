@@ -69,14 +69,34 @@ In "Cont nou" page, the user can register with a very weak password which consis
   * Email: radu.stefanut777@gmail.com
   * Adresa: Str Vulturului nr.74
   * Oras: Buhusi
--Cod postal: 607202
--Judet/sector: Bacau
--Tara: Romania
--Date livrare: Completeaza date de livrare cu date personale
--Adresa: Str.Soseaua Nationala nr.74
--Oras: Bacau
--Judet/sector: Bacau
--Parola: 123
--Confirma parola: 123
+  * Cod postal: 605302
+  * Judet: Bacau
+  * Parola: 123
+  * Confirma parola: 123
 4.User clicks on the "Inregistrare" button
+
+**Actual results:**
+The user can register successfully with a very weak password.
+
+**Expected results:**
+The user should not be able to register with such a weak password which consists in just 3 characters.
+
+**Prority:**
+Normal
+
+**Severity:**
+Minor
+
+**Reproducibility:**
+Always
+
+**Platform:**
+Laptop
+
+**OS:**
+Windows
+
+**OS Version:**
+10 Home
+
 
