@@ -4,4 +4,5 @@ Below are some bugs reported by me while I was working on my project at **The In
 
 -------------
 
-**Description:**
+**Summary:**
+User can register without having the same password in "Parola" and "Confirma parola" fields.
