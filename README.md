@@ -211,7 +211,7 @@ From "Comanda" page,the user should be directed to the shopping page to be able 
 Normal
 
 **Severity:**
-Minor  
+Normal  
 
 **Reproducibility:**
 Always
