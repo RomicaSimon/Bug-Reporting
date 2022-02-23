@@ -53,7 +53,7 @@ Windows
 10 Home
 
 **Attachment:**
-![Alt Text](https://bugs.scoalainformala.ro/file_download.php?file_id=23182&type=bug)
+[link](https://bugs.scoalainformala.ro/file_download.php?file_id=23182&type=bug)
 
 -----------
 
