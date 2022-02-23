@@ -157,6 +157,9 @@ Windows
 **OS Version:**
 10 Home
 
+**Attachment:**
+![Alt Text](https://bugs.scoalainformala.ro/file_download.php?file_id=22874&type=bug)
+
 ---------------
 
 **Summary:**
