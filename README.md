@@ -105,7 +105,8 @@ Windows
 10 Home
 
 **Attachment:**
-![Alt Text](https://bugs.scoalainformala.ro/file_download.php?file_id=23183&type=bug)
+![Alt Text](![MissingWeakPasswordMsg-bug](https://user-images.githubusercontent.com/85682689/155272086-9ea1b880-67a7-4958-bc84-5a40285eb430.jpg)
+
 
 ---------------
 
