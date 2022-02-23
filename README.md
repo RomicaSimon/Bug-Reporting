@@ -327,6 +327,11 @@ Windows
 **OS Version:**
 10 Home
 
+**Attachment:**
+
+![bigfish-missing zoom bug](https://user-images.githubusercontent.com/85682689/155275131-ff0a4bd0-200e-44dd-8a49-bcaf0fcb517f.png)
+
+
 -----------------
 
 **Summary:**
