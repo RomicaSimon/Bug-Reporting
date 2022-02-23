@@ -286,6 +286,10 @@ Windows
 **OS Version:**
 10 Home
 
+**Attachment:**
+
+[link](https://bugs.scoalainformala.ro/file_download.php?file_id=22843&type=bug)
+
 ----------------
 
 **Summary:**
