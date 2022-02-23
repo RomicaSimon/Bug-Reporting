@@ -18,7 +18,7 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
   * Nume: Stefan
   * Prenume: Radu
   * Telefon: 0787633555
-  * Email: radu.stefanut77@gmail.com
+  * Email: radu.stefanut56@gmail.com
   * Adresa: Str Vulturului nr.74
   * Oras: Buhusi
   * Cod postal: 605302
@@ -103,6 +103,9 @@ Windows
 
 **OS Version:**
 10 Home
+
+**Attachment:**
+![Alt Text](https://bugs.scoalainformala.ro/file_download.php?file_id=23183&type=bug)
 
 ---------------
 
