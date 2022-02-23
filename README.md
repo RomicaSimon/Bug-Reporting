@@ -158,7 +158,8 @@ Windows
 10 Home
 
 **Attachment:**
-![Alt Text](https://bugs.scoalainformala.ro/file_download.php?file_id=22874&type=bug)
+![Alt Text](https://user-images.githubusercontent.com/85682689/155273072-e3c5082d-3288-4157-8f98-146958d0d735.jpg)
+
 
 ---------------
 
