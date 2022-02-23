@@ -373,6 +373,11 @@ Windows
 **OS Version:**
 10 Home
 
+**Attachment:**
+
+![Wishlist-confirmation message bug](https://user-images.githubusercontent.com/85682689/155275546-2a4ccb33-0539-44aa-b9ac-ba4ed6322912.jpg)
+
+
 -----------------
 
 **Summary:**
