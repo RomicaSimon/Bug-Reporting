@@ -409,6 +409,11 @@ The account is successfully registered.
 **Expected results:**
 User should not be able to create a new account with other than numerichal characters and should get an warning message that postal code introduced hasn't the correct format.
 
+**Additional Information:**
+The same bug is reproducible for next two sections:
+  * In the "Contact" page
+  * In the "Comanda" page, more specifically, in the "Inregistrare cont nou" section
+
 **Priority:**
 Normal
 
@@ -426,6 +431,11 @@ Windows
 
 **OS Version:**
 10 Home
+
+**Attachment:**
+
+![PostalCodeRegister-bug](https://user-images.githubusercontent.com/85682689/155277710-3932b921-ace7-4c0c-8f9d-c9a906fa1cb8.jpg)
+
 
 
 
