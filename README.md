@@ -105,6 +105,7 @@ Windows
 10 Home
 
 **Attachment:**
+
 ![Alt Text](https://user-images.githubusercontent.com/85682689/155272086-9ea1b880-67a7-4958-bc84-5a40285eb430.jpg)
 
 
@@ -158,6 +159,7 @@ Windows
 10 Home
 
 **Attachment:**
+
 ![Alt Text](https://user-images.githubusercontent.com/85682689/155273072-e3c5082d-3288-4157-8f98-146958d0d735.jpg)
 
 
@@ -196,7 +198,13 @@ Laptop
 Windows
 
 **OS Version:**
+
 10 Home
+
+**Attachment:**
+
+![Alt Text](https://user-images.githubusercontent.com/85682689/155273542-48a24e21-fd94-42fc-84fd-eeabd884997a.jpg)
+
 
 ----------------
 
