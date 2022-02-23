@@ -140,6 +140,9 @@ The account is successfully registered.
 **Expected results:**
 A message should warn the user that email address introduced is not in the correct format and enter a valid one.
 
+**Additional Information:**
+The same bug is reproducible for next two sections: "Contact" page and "Comanda" page. 
+
 **Priority:**
 Normal
 
