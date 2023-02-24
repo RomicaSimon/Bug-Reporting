@@ -29,9 +29,11 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
 4. User clicks on the "Inregistrare" button
 
 **Actual ressults:**
+
 User is able to register successfully with different values for "Parola" and "Confirma parola" fields.
 
 **Expected results:**
+
 User should not be able to register with different values for "Parola" and "Confirma parola" fields.
 
 **Priority:**
