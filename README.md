@@ -6,11 +6,11 @@ Below are some bugs reported by me while I was working on my project at **The In
 
 **Summary:**
 
-User can register without having the same password in "Parola" and "Confirma parola" fields.
+* User can register without having the same password in "Parola" and "Confirma parola" fields.
 
 **Description:**
 
-In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
+* In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
 
 **Steps to Reproduce:**
 
