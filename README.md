@@ -5,9 +5,11 @@ Below are some bugs reported by me while I was working on my project at **The In
 -------------
 
 **Summary:**
+
 User can register without having the same password in "Parola" and "Confirma parola" fields.
 
 **Description:**
+
 In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
 
 **Steps to Reproduce:**
@@ -30,11 +32,11 @@ In "Cont nou" page, if the user enters different values for "Parola" and "Confir
 
 **Actual ressults:**
 
-User is able to register successfully with different values for "Parola" and "Confirma parola" fields.
+* User is able to register successfully with different values for "Parola" and "Confirma parola" fields.
 
 **Expected results:**
 
-User should not be able to register with different values for "Parola" and "Confirma parola" fields.
+* User should not be able to register with different values for "Parola" and "Confirma parola" fields.
 
 **Priority:**
 Normal
