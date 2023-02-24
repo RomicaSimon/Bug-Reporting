@@ -10,7 +10,7 @@ Below are some bugs reported by me while I was working on my project at **The In
 
 **Description:**
 
-* In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
+    In "Cont nou" page, if the user enters different values for "Parola" and "Confirma parola" fields,he can register successfully. 
 
 **Steps to Reproduce:**
 
